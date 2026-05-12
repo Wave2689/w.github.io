@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://waveyang.github.io/sitemap.xml
+Sitemap: https://wave2689.github.io/sitemap.xml
